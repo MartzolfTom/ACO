@@ -1,0 +1,15 @@
+- Mise en place de l'interface graphique et début des mouvements
+- Automatisation des mouvements et chemin retour
+- Implementation des obstacles
+- depot des pheromones et code couleur
+- debut influence des pheromones
+- integration facteur aleatoire choix case
+- debut implementation choix case gauche et haut + interface fx
+- nouveau calcul de proba
+- plusieurs fourmies à la fois
+- rappel des fourmis si trop longues
+
+- Bouton d'informations + réajustation de la valeur des phéromones déposées sur le chemin le plus court actuel
+
+/////////////////////////////////////////
+
